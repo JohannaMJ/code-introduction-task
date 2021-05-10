@@ -1,0 +1,73 @@
+/* style of the body */
+body {
+  font-family: Helvetica, "sans serif";
+  background-color: #ecc8c8;
+  margin: 0;
+}
+
+/* style of heads/paragraphs/list */
+h1 {
+ color: #ecc8c8;
+ font-size: 70px;
+}
+
+h2 {
+  color: #ecc8c8;
+  font-size: 40px;
+  font-weight: 220;
+}
+
+h3 {
+  color: #5c201f;
+  font-size: 21px;
+  font-weight: 450;
+  text-transform: uppercase;
+}
+
+h4 {
+  color: #5c201f;
+  font-size: 16px;
+  font-weight: 1500;
+}
+
+p {
+  color: #5c201f;
+  font-size: 16px;
+}
+
+.list {
+  color: #5c201f;
+  font-size: 16px;
+  padding: 0px 10px;
+}
+
+/* style of the head of the page */
+.head-of-page {
+  background-color: #c05c56;
+  padding: 80px 30px;
+  color:#ecc8c8;
+  text-align: center;
+  }
+
+/* style of the information section */
+.information {
+  padding: 50px 150px;
+}
+
+
+/* style of the footer */ 
+footer {
+  background-color:  #ecc8c8;
+  padding: 100px 30px;
+  text-align: center;
+}
+
+/* style of the button */
+.button {
+  background-color: #c05c56;
+  color:  #ecc8c8;
+  padding: 25px;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 35px;
+}
